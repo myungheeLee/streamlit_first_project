@@ -5,6 +5,5 @@ pillow
 poppler-utils
 koreanize-matplotlib
 pdfminer.six
-streamlit
 pandas
 matplotlib
